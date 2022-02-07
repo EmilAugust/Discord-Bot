@@ -4,4 +4,4 @@ This is a Discord bot that has a leveling system and can give users money. It ca
 
 # How to use
 In order to make the bot work, you have to change the token at the bottom of the code to match the token of your bot, which you can find in the Discord developer portal.
-Type !help for a list of commands.
+Type !commands for a list of commands.
