@@ -150,4 +150,4 @@ async def on_command_error(ctx, error):
         return
     raise error
 
-bot.run("ODQxNTk4MTg3MzQ1MDE4OTQw.YJpFZA.KNZOo2KuFDzzLhCL9ADXkrWzgfM")
+bot.run("token") #Enter token here
