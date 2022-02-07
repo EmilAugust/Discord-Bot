@@ -150,4 +150,4 @@ async def on_command_error(ctx, error):
         return
     raise error
 
-bot.run("token") #Enter token here
+bot.run("token") #Enter your bot's token here
